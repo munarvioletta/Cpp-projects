@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1430083083 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\gryzon.cpp
+	"GRYZON.h"
+
+1432072028 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\gryzon.h
+	"Zwierzak.h"
+
+1430862549 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\zwierzak.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1430083083 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\klinika.cpp
+	"Klinika.h"
+
+1430206641 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\klinika.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<list>
+
+1430085990 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\kot.cpp
+	"KOT.h"
+
+1432066051 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\kot.h
+	"Zwierzak.h"
+
+1432072661 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"KOT.cpp"
+	"PIES.cpp"
+	"GRYZON.cpp"
+	"Klinika.cpp"
+
+1432065473 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\kot.cpp
+	"KOT.h"
+
+1432069464 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\pies.cpp
+	"PIES.h"
+
+1432071209 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\pies.h
+	"Zwierzak.h"
+
+1430085998 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\pies.cpp
+	"PIES.h"
+
+1430083083 source:e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\zwierzak.cpp
+	"Zwierzak.h"
+
+1432072881 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\klinika.cpp
+	"Klinika.h"
+	"Zwierzak.h"
+	<list>
+
+1432071770 e:\programowanie\c++\stopien 2\programy_uczelnia\uml\klinikazwierzat\gryzon.cpp
+	"GRYZON.h"
+

@@ -1,0 +1,4 @@
+wykorzystac biblioteke <complex>
+wykorzystac biblioteke tablicy <vector>
+wykorzystac dla klasy Osoba i liczb zespolonych 
+wyswietlic na monitorze i zapisac do pliku

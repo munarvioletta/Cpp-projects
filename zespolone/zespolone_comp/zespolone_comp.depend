@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427661870 source:e:\programowanie\c++\stopien 2\programy_uczelnia\zespolone\zespolone_comp\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<string>
+	<complex>
+	<fstream>
+

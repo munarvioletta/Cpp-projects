@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1427661726 source:e:\programowanie\c++\stopien 2\programy_uczelnia\tablica_stl\tablica_stl\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<string>
+	<fstream>
+

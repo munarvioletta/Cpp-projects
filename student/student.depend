@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427889142 source:e:\programowanie\c++\stopien 2\programy_uczelnia\student\student\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<list>
+	<string>
+	<algorithm>
+	<ctype.h>
+
