@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453934034 source:d:\mega\semestr ix\pur\zadania egzaminacyjne\zad\zad1\pid_numeryczny_c++\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<ostream>
+	<fstream>
+
