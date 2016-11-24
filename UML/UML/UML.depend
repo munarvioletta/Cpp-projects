@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1430292577 source:c:\users\damian\documents\uml\uml\faktura.cpp
+	"Faktura.h"
+
+1430238048 c:\users\damian\documents\uml\uml\faktura.h
+	<vector>
+	<iostream>
+	"klient.h"
+	"platnosc.h"
+	"produkt.h"
+
+1430238072 c:\users\damian\documents\uml\uml\klient.h
+
+1430238706 c:\users\damian\documents\uml\uml\platnosc.h
+
+1430238974 c:\users\damian\documents\uml\uml\produkt.h
+	<iostream>
+
+1430291257 source:c:\users\damian\documents\uml\uml\platnosc.cpp
+	"platnosc.h"
+	<iostream>
+
+1430291831 source:c:\users\damian\documents\uml\uml\produkt.cpp
+	"produkt.h"
+
+1430238311 source:c:\users\damian\documents\uml\uml\klient.cpp
+	"klient.h"
+	<iostream>
+
+1430292619 source:c:\users\damian\documents\uml\uml\main.cpp
+	<iostream>
+	<conio.h>
+	"Faktura.h"
+	"klient.h"
+	"produkt.h"
+	"platnosc.h"
+
+1430292578 source:e:\wat\ii stopien\isau\uml\uml\faktura.cpp
+	"Faktura.h"
+
+1430238050 e:\wat\ii stopien\isau\uml\uml\faktura.h
+	<vector>
+	<iostream>
+	"klient.h"
+	"platnosc.h"
+	"produkt.h"
+
+1430238074 e:\wat\ii stopien\isau\uml\uml\klient.h
+
+1430238708 e:\wat\ii stopien\isau\uml\uml\platnosc.h
+
+1430238976 e:\wat\ii stopien\isau\uml\uml\produkt.h
+	<iostream>
+
+1430238312 source:e:\wat\ii stopien\isau\uml\uml\klient.cpp
+	"klient.h"
+	<iostream>
+
+1430293368 source:e:\wat\ii stopien\isau\uml\uml\main.cpp
+	<iostream>
+	<conio.h>
+	"Faktura.h"
+	"klient.h"
+	"produkt.h"
+	"platnosc.h"
+
+1430291258 source:e:\wat\ii stopien\isau\uml\uml\platnosc.cpp
+	"platnosc.h"
+	<iostream>
+
+1430291832 source:e:\wat\ii stopien\isau\uml\uml\produkt.cpp
+	"produkt.h"
+
